@@ -5,11 +5,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirza7860&theme=" alt="mirza7860" /></a> </p>
 
 - 👋 Hi, I’m Sahil (@mirza7860)
-- 💼 I'm also actively seeking open-source repositories for contribution to further develop my skills and give back to the community.
-- 🔭 I’m currently working on personal projects to showcase my skills and build a portfolio.
+- 💬 I am proficient in MERN stack, Next.js, React Native, JavaScript & Python.
 - 🌱 I’m currently exploring **AWS & DevOps** to enhance my skills.
-- 💬 Ask me about MERN, Next.js, React Native, JavaScript & Python.
-- 👯 I’m looking to collaborate on innovative web and mobile application projects where I can contribute my expertise in full-stack development.
+- 🔭 I’m working on personal projects to showcase my skills and build a portfolio.
+- 💼 I'm actively seeking open-source repositories for contribution to further develop my skills and give back to the community.
+- 👯 I’m looking to collaborate on innovative web and mobile application projects .
 - 🤝 I’m looking for help with gaining industry experience and mentorship to accelerate my growth as a developer.
 - 📫 How to reach me: **mirzasahilallibaig@gmail.com**.
 - 👨‍💻 All of my projects are available at **https://sahil-portfolio-omega.vercel.app**.
