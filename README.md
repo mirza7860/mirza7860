@@ -70,13 +70,28 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mirza7860&theme=" alt="mirza7860" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div >
-<a href="https://github.com/mirza7860">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirza7860&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirza7860&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirza7860&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mirza7860&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirza7860&theme=2077" height="180em" />
+<div>
+  <div style="display: inline-block; vertical-align: top;">
+    <a href="https://github.com/mirza7860" style="display: inline-block;">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirza7860&theme=2077" height="180em" style="margin-right: 10px; margin-bottom: 10px;" />
+    </a>
+    <a href="https://github.com/mirza7860" style="display: inline-block;">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirza7860&theme=2077" height="180em" style="margin-right: 10px; margin-bottom: 10px;" />
+    </a>
+  </div>
+  <div style="display: inline-block; vertical-align : top ; ">
+    <a href="https://github.com/mirza7860" style="display: inline-block;">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirza7860&theme=2077" height="180em" style="margin-right: 10px; margin-bottom: 10px;" />
+    </a>
+    <a href="https://github.com/mirza7860" style="display: inline-block;">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mirza7860&theme=2077" height="180em" style="margin-right: 10px; margin-bottom: 10px;" />
+    </a>
+  </div>
+  <div style="display: inline-block; vertical-align: top;">
+    <a href="https://github.com/mirza7860" style="display: inline-block;">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirza7860&theme=2077" height="180em" />
+    </a>
+  </div>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mirza7860&theme=default"/>
