@@ -3,16 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirza7860&theme=" alt="mirza7860" /></a> </p>
 
-- 💬 I am proficient in MERN stack, Next.js, React Native, JavaScript & Python.
+- 💬 I am proficient in **MERN stack, Next.js, React Native, JavaScript & Python**.
 - 🌱 I’m currently exploring **AWS & DevOps** to enhance my skills.
-- 🔭 I’m working on personal projects to showcase my skills and build a portfolio.
-- 💼 I'm actively seeking open-source repositories for contribution to further develop my skills and give back to the community.
-- 👯 I’m looking to collaborate on innovative web and mobile application projects .
+- 🔭 I’m working on personal **projects** to showcase my skills and build a **portfolio**.
+- 💼 I'm actively seeking **open-source repositories** for contribution to further develop my skills and give back to the community.
+- 👯 I’m looking to collaborate on innovative **web** and **mobile** application projects .
 - 🤝 I’m looking for help with gaining industry experience and mentorship to accelerate my growth as a developer.
 - 📫 How to reach me: **mirzasahilallibaig@gmail.com**.
 - 👨‍💻 All of my projects are available at **https://sahil-portfolio-omega.vercel.app**.
 - 📝 I regularly write articles on **https://sahil786.hashnode.dev**.
-- ⚡ Fun fact: I love exploring new tech.
+- ⚡ **Fun fact: I love exploring new tech.**
 
 <div> <a href="https://twitter.com/SahilAlli18167" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mirza7860" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
